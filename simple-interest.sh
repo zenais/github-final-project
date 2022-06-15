@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <zenais>
+   # zenais
 
    # Input:
    # p, principal amount
